@@ -25,9 +25,5 @@ This repository contains all the deliverables and code for our Bayesian Optimiza
   Specifies the license under which this repository can be used.
 
 ### Dependencies
-To use this repository, you need to install the `pyJive` library. You can do this by running the following command:
-
-```bash
-pip install pyJive
-
+To use this repository, you need to install the `pyJive` library.
 
